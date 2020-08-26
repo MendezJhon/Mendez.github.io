@@ -22,7 +22,7 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
-
+<img src="https://images.unsplash.com/photo-1535378917042-10a22c95931a">
 [Link](url) and ![Image](src)
 ```
 
