@@ -44,6 +44,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
   language-code="es"
 ></df-messenger>
 
+### Teachable Machine Image Model of the fruts
 <div>Teachable Machine Image Model</div>
 <button type="button" onclick="init()">Start</button>
 <div id="webcam-container"></div>
@@ -55,7 +56,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
     // https://github.com/googlecreativelab/teachablemachine-community/tree/master/libraries/image
 
     // the link to your model provided by Teachable Machine export panel
-    const URL = "https://teachablemachine.withgoogle.com/models/V94M4ilqc/";
+    const URL = "https://teachablemachine.withgoogle.com/models/iKm0z-oCC/";
 
     let model, webcam, labelContainer, maxPredictions;
 
