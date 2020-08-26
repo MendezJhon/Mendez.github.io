@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-<img src="https://i.pinimg.com/564x/12/f1/c3/12f1c384fab9bb7256bf677957f08c34.jpg">
+ <img src="https://media.wired.com/photos/5926db217034dc5f91becd6b/master/w_582,c_limit/so-logo-s.jpg" width="250">
 
 [Link](url) and ![Image](src)
 ```
