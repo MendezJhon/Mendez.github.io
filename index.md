@@ -23,10 +23,8 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
- <img src="https://animeonegai.com/assets/img/spring4.png">
 
-[Link](https://animeonegai.com/assets/img/spring4.png) and ![Image](https://animeonegai.com/assets/img/spring4.png)
-```
+[Link](url) and ![Image](scr)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
